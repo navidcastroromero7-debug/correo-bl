@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    margin:0;
+    padding:0;
+    background:#10087c;
+}
+
+.contenedor{
+    width:100%;
+    max-width:600px;
+    margin:0 auto;
+}
+
+.contenedor img{
+    width:100%;
+    display:block;
+    margin:0;
+    padding:0;
+}
